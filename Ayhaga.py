@@ -1,3 +1,1 @@
-# Ay-haga
-anything
-print("ayhaga")
+print("aho")
