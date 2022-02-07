@@ -1,3 +1,3 @@
 # Ay-haga
 anything
-print("Ayhaga")
+print("ayhaga")
